@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 150;
+}
+.Loki{
+    color: green;
+}
+.Bolton{
+    color: blue;
+}
