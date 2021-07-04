@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -11,10 +12,13 @@ h1{
 .Bolton{
     color: blue;
 }
-section{
+.one{
     display: flex;
     text-align: justify;
     padding-left: 50px;
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 150px;
 }
 .same{
     width: 50%;
@@ -25,9 +29,20 @@ section{
 }
 .hire{
     text-decoration: none;
-    margin-left: 50px;
     background-color: coral;
     border-radius: 5px;
     color: white;
     padding: 10px 40px;
+}
+.two{
+    display: flex;
+    text-align: justify;
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.again{
+    width: 50%;
+    padding-right: 50px;
+    padding-left: 40px;
 }
