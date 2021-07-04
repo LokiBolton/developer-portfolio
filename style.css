@@ -11,3 +11,23 @@ h1{
 .Bolton{
     color: blue;
 }
+.flex{
+    display: flex;
+    text-align: justify;
+    padding-left: 50px;
+}
+.same{
+    width: 50%;
+}
+.same img{
+    width: 80%;
+    padding-left: 50px;
+}
+.hire{
+    text-decoration: none;
+    margin-left: 50px;
+    background-color: coral;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 40px;
+}
