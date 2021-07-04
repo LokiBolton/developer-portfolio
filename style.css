@@ -11,7 +11,7 @@ h1{
 .Bolton{
     color: blue;
 }
-.flex{
+section{
     display: flex;
     text-align: justify;
     padding-left: 50px;
